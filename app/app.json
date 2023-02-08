@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "crash-reproduction",
+    "slug": "crash-reproduction",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.jonathanfrick.crash-reproduction"
+    }
+  }
+}
